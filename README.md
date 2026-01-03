@@ -39,8 +39,23 @@ A partir da análise, identificamos que a taxa de evasão é de **26,5%**, impul
 
 1. Clone o repositório:
 ```bash
+1. Clone o repositório:
+```bash
 git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+Instale as dependências:
+````
+
 ```
+Bash
+pip install pandas seaborn matplotlib requests
+Execute o Jupyter Notebook:
+```
+
+```
+Bash
+jupyter notebook "TelecomX_BR_Gustavo_Silva.ipynb"
+```
+
 ✒️ Autor
 Gustavo Silva
 
