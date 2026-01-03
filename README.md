@@ -40,3 +40,11 @@ A partir da análise, identificamos que a taxa de evasão é de **26,5%**, impul
 1. Clone o repositório:
 ```bash
 git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+
+✒️ Autor
+Gustavo Silva
+
+Estudante de Sistemas de Informação (UFPA)
+
+[Seu LinkedIn
+](https://www.linkedin.com/in/gustavo-silva-669a18250/)
