@@ -4,7 +4,7 @@ Análise Exploratória de Dados (EDA) focada em retenção de clientes e churn.
 
 ![Status](https://img.shields.io/badge/Status-Concluído-green)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Lib](https://img.shields.io/badge/Lib-Pandas%20|%20Seaborn-orange)
+![Lib](https://img.shields.io/badge/Lib-Pandas%20|%20Seaborn-orange/matplotlib)
 
 ## 📝 Descrição do Projeto
 Este projeto consiste em uma Análise Exploratória de Dados (EDA) sobre uma base de clientes de uma empresa de telecomunicações. O objetivo principal foi identificar padrões de comportamento e descobrir quais fatores levam os clientes a cancelar o serviço (**Churn**).
